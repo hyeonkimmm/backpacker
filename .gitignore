@@ -1,0 +1,12 @@
+# --- SBT ---
+/target/
+/project/target/
+/project/project/
+
+# --- IntelliJ IDEA ---
+.idea/
+.bsp/
+
+# --- Cached data ---
+data/
+output/
